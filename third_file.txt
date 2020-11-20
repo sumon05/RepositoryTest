@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 $ echo "this is line one"
 I am third file
+=======
+$ echo "this is line one" I am third file
+>>>>>>> new_feature
+This is the edited version of third file
